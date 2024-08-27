@@ -1,20 +1,16 @@
-# 👋 Hi, I'm AntGe7
+### Hi there 👋,I'm zhe.
 
-## 👀 Interests
-- 这里是你感兴趣的领域或事物。
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 📫 How to reach me: wisdom_zhe@qq.com
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
-## 🌱 Learning
-- 列出你目前正在学习的技能或知识。
+![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
 
-## 💞️ Collaboration
-- 如果你正在寻找合作项目或机会，请在这里说明。
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-## 📫 Reach Me
-- 列出你的联系方式，如电子邮件、社交媒体链接或其他在线平台。
+### My Skill Set
 
-## 😄 Pronouns
-- 如果你希望他人在提及你时使用特定的代词，请在这里注明。
-
-## ⚡ Fun Fact
-- 分享一个关于你自己的有趣或不为人知的事实。
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
